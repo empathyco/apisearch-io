@@ -1,0 +1,79 @@
+<div id="popup-brevo-background" class="popup"></div>
+<div id="popup-brevo" class="popup">
+    <div class="close" onclick="hidePopup()">Cerrar</div>
+    <iframe loading="lazy" width="540" height="305" src="https://693dce96.sibforms.com/serve/MUIFAJhFtSWKnVDn2T09FZoIRe2MjE01VMtfdP6z_P5Rfn9lm8W6FdXLZYc0nNBdOd8WcwDkxBT3zvVsBJRTvB9_77QHfpcUnrNV-MWM18U78WhK142LaArnJGI6UlgHBsZ5mSW2rcWCiKfqNf5omzyg8bzrMasfQM4tMw1FAOqhPS6Vq20hhMJV7fIR8gkAA1Ll-DAgBVdqamXp" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+</div>
+
+<style>
+    #popup-brevo-background{
+        display: none;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: black;
+        opacity: .8;
+        z-index: 10000000;
+    }
+
+    #popup-brevo {
+        display: none;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 10000000;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    #popup-brevo iframe {
+        height: 670px;
+        z-index: 100002;
+    }
+
+    #popup-brevo .close {
+        color: white;
+        margin: 0 auto;
+        font-weight: 500;
+        font-size: 20px;
+        cursor: pointer;
+    }
+</style>
+
+<script>
+
+    const popupWasDeletedName = 'brevo-popup-deleted';
+    const popupWasDeleted = localStorage.getItem(popupWasDeletedName);
+
+    if (!popupWasDeleted) {
+        const scrollListener = function() {
+            if (window.scrollY >= 2000) {
+                showPopup();
+                window.removeEventListener('scroll', scrollListener);
+            }
+        }
+
+        function showPopup() {
+            dataLayer.push({'event': 'popup_open'});
+            Array.prototype.forEach.call(document.getElementsByClassName('popup'), function(el) {
+                el.style.display = 'flex';
+            });
+        }
+
+        function hidePopup() {
+            Array.prototype.forEach.call(document.getElementsByClassName('popup'), function(el) {
+                el.style.display = 'none';
+            });
+            localStorage.setItem(popupWasDeletedName, 'true');
+        }
+
+        window.addEventListener('scroll', scrollListener);
+        document.getElementById('popup-brevo').addEventListener('click', function(_) {
+            hidePopup();
+        });
+    }
+
+</script>

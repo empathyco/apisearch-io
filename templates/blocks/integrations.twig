@@ -1,0 +1,22 @@
+<section id="integrations" class="relative py-32 as-background-black overflow-hidden">
+    <div class="container mx-auto px-4">
+        <div class="text-center mb-16">
+            <h3 class="text-5xl md:text-6xl font-100 as-light">{{ t.integrations.title }}</h3>
+            <p class="max-w-xl mx-auto text-lg as-light">{{ t.integrations.subtitle }}</p>
+        </div>
+        <div class="flex flex-wrap -m-4" style="align-items: center; justify-content: space-around;">
+            <a href="{{ url("prestashop") }}">
+                <img class="mb-12" src="{{ assets_path }}/images/integrations/prestashop.webp?hash={{ hash }}" alt="Logo de prestashop" style="width: 200px; height: auto; filter: brightness(0) invert(1)" loading="lazy">
+            </a>
+            <a href="{{ url("shopify") }}">
+                <img class="mb-12" src="{{ assets_path }}/images/integrations/shopify-transparent.webp?hash={{ hash }}" alt="Lopo de Shopify" style="width: 200px; height: auto; filter: brightness(0) invert(1)" loading="lazy">
+            </a>
+            <a href="{{ url("google_shopping") }}">
+                <img class="mb-12" src="{{ assets_path }}/images/integrations/google-shopping.webp?hash={{ hash }}" alt="Logo de Google Shopping" style="width: 200px; height: auto; filter: brightness(0) invert(1)" loading="lazy">
+            </a>
+            <a href="{{ url("woocommerce") }}">
+                <img class="mb-12" src="{{ assets_path }}/images/integrations/woocommerce.webp?hash={{ hash }}" alt="Logo de Woocommerce" style="width: 200px; height: auto;" loading="lazy">
+            </a>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,33 @@
+<section class="py-32 bg-gradient-gray2 overflow-hidden">
+    <div class="container mx-auto px-4">
+        <div class="flex flex-wrap -m-6">
+            <div class="w-full md:w-1/2 p-6">
+                <div class="h-full md:max-w-lg">
+                    <div class="flex flex-wrap h-full -m-6">
+                        <div class="w-full p-6">
+                            <h3 class="mb-6 text-5xl md:text-6xl font-100">{{ t.testimonials.title }}</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="w-full md:w-1/2 p-6">
+                <div class="flex flex-wrap justify-center md:max-w-lg md:mx-auto divide-y divide-gray-200">
+                    {% for testimonial in t.testimonials.testimonials %}
+                    <div class="w-full lg:w-auto mt-4 pt-4">
+                        <div class="pb-7">
+                            <p class="mb-6 text-black text-base">“{{ testimonial.body|raw }}”</p>
+                            <div class="stars"><div class="star"></div><div class="star"></div><div class="star"></div><div class="star"></div><div class="star"></div></div>
+                            <div class="flex flex-wrap -m-1.5">
+                                <div class="w-auto p-1.5">
+                                    <p class="font-heading text-gray-900 font-semibold text-lg">{{ testimonial.author }}</p>
+                                    <p class="text-sm text-gray-600">{{ testimonial.position }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

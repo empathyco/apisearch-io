@@ -1,0 +1,596 @@
+menu:
+  features: Funcionalidades
+  prices: Precios
+  integrations: Integraciones
+  contact: Contacta
+  blog: Blog
+
+global:
+  menu:
+    link1: Producto
+    link2: Precios
+    link3: Clientes
+    sign_in: Acceder
+    get_in_touch: Escríbenos en
+    ask_a_demo: Pruébalo gratis 30 días
+    whatsapp: Háblanos por whatsapp
+  common:
+    got_questions:
+      title: ¿Tienes preguntas?
+      subtitle: Si tienes cualquier duda, siempre puedes contactar con nosotros, pero por aquí te dejamos algunas de nuestras preguntas más frecuentes
+    start_now:
+      title: Empieza ya!
+      subtitle: No se necesita saber programar para instalar Apisearch.
+
+  meta:
+    title: Apisearch, búsqueda en tiempo real para impulsar tus ventas
+    description: Aprovecha la búsqueda en tiempo real para tomar decisiones de compra más informadas. Nuestra tecnología te brinda resultados al instante para impulsar tus ventas.
+    keywords: Apisearch, buscador, e-commerce, inteligencia artificial, tienda online
+    author: Equipo de Apisearch
+    url: https://apisearch.io
+    image: /images/banner.png
+
+  nav:
+    features: Funcionalidades
+    prices: Precios
+    integrations: Integraciones
+    contact: Contacta
+    blog: Blog
+    prestashop: Utiliza nuestro plugin para la versión 1.7 y 8 de Prestashop
+    shopify: No necesitas plugin para añadir a tu tienda Shopify un buscador de primera
+    woocommerce: Nunca había sido tan fácil instalar un buscador en tu tienda Woocommerce
+    google_shopping: Con tan solo 1 feed de Google Merchant, ya puedes tener tu buscador funcionando
+    read_more: + Leer más
+
+urls:
+  privacy_policy:
+    - Política de privacidad
+    - politica-de-privacidad
+    -
+
+  terms_and_conditions:
+    - Términos y condiciones
+    - terminos-y-condiciones
+    -
+
+  prestashop:
+    - Integración con Prestashop
+    - prestashop
+    -
+      title: "El mejor buscador para prestashop ▷ Incrementa tus ventas"
+      description: Potencia las ventas en tu tienda Prestashop con Apisearch, el mejor buscador en tiempo real. Aumenta la conversión de visitantes a clientes.
+      keywords: Apisearch, buscador, prestashop, ecommerce, tienda online
+
+
+
+  shopify:
+    - Integración con Shopify
+    - shopify
+    -
+      title: "Mejora tu buscador Shopify con Apisearch ▷ Buscador en tiempo real"
+      description: Aumenta las conversiones en tu tienda Shopify con Apisearch, el buscador inteligente preferido. Herramienta esencial para un crecimiento sostenido de ventas.
+      keywords: Apisearch, buscador, shopify, ecommerce, tienda online
+
+  woocommerce:
+    - Integración con Woocommerce
+    - woocommerce
+    -
+      title: "Añade el mejor buscador en tu tienda Woocommerce ▷ Incrementa tus ventas"
+      description: Experimenta un aumento inmediato en las ventas de tu tienda Woocommerce con Apisearch, el mejor buscador en tiempo real. Resultados efectivos al instante.
+      keywords: Apisearch, buscador, Woocommerce, ecommerce, tienda online
+
+  google_shopping:
+    - Integración con Google Shopping
+    - google-shopping
+    -
+      title: "Instala Apisearch desde cualquier plataforma con tu feed de google merchant"
+      description: Aprovecha la búsqueda en tiempo real para tomar decisiones de compra más informadas en tu tienda online. Nuestra tecnología te brinda resultados al instante para impulsar tus ventas
+      keywords: Apisearch, buscador, ecommerce, tienda online
+
+  mabisy:
+    - Integración con Mabisy
+    - mabisy
+    -
+      title: "El mejor buscador en tiempo real para tu tienda Mabisy ▷ Incrementa tus ventas hasta un 30%"
+      description: Potencia tu estrategia de ventas en Mabisy con Apisearch, el mejor buscador en tiempo real. Mejora la experiencia de tus clientes con la solución líder en esta plataforma.
+      keywords: Apisearch, buscador, mabisy, ecommerce, tienda online
+
+  success_carethy:
+    - Caso de éxito con Carethy
+    - caso-exito-carethy
+    -
+
+  start:
+    - Empieza a utilizar Apisearch durante 30 dias gratis
+    - empieza-con-apisearch
+    -
+      title: "Empieza a utilizar Apisearch durante 30 dias gratis"
+      description: Empieza a utilizar Apisearch durante 30 días gratis. Experimenta cómo puedes incrementar tus ventas con el mejor buscador para tu tienda online para este 2024.
+      keywords: Apisearch, prueba buscador, empieza
+
+blocks:
+  footer:
+    integrations: Integraciones
+    resources: Recursos
+    company: Empresa
+    contact: Contacta
+    terms_and_conditions: Términos y condiciones
+    privacy_policy: Política de privacidad
+
+  features:
+    title: Nuestras funcionalidades
+    subtitle: Descubre las funcionalidades que Apisearch puede ofrecer a tu tienda online.
+    fuzziness:
+      title: Tolerancia a fallos
+      subtitle: Sabemos que no todas las palabras son fáciles de escribir. No importa. Nosotros las encontramos igualmente.
+    multi_device:
+      title: Multi dispositivo
+      subtitle: No importa desde donde entren tus usuarios. Ofréceles siempre la mejor experiencia de búsqueda.
+    sort:
+      title: Ordena por ventas
+      subtitle: Los productos más vendidos siempre tendrán un poco más de relevancia que los demás.
+    rules:
+      title: Crea promociones
+      subtitle: Promociona productos cuando un cliente busque una palabra específica.
+    filters:
+      title: Filtros
+      subtitle: Proporciona una navegación más óptima con nuestra variedad de filtros.
+    metrics:
+      title: Métricas
+      subtitle: Analiza todo lo que pasa en el buscador para mejorar su rendimiento.
+
+  prices:
+    title: Precios
+    body: "Pon a prueba Apisearch. Nuestro compromiso es claro: queremos ayudarte a vender más. Es por esto que no trabajamos con planes o con ventas dentro de la aplicación. Si estás con nosotros, lo estás al 100%."
+    bullet_1: Acceso a todas nuestras funcionalidades
+    bullet_2: Paga solo por peticiones reales
+    bullet_3: Analítica durante 12 meses
+    bullet_4: ¡Vende hasta un 30% más!
+    box_1:
+      title: Paquete enterprise
+      subtitle_1: Planes a partir de €250.
+      subtitle_2: Buscador predictivo, precios B2B, diseño custom
+      subtitle_3: Tráfico ilimitado, productos ilimitados. Contáctanos para trabajar en su caso.
+    box_2:
+      title: Paquete multisite
+      subtitle_1: Múltiples tiendas, múltiples idiomas e implementaciones a medida.
+      subtitle_2: Tráfico ilimitado, productos ilimitados. Contáctanos para trabajar en su caso.
+
+  contact:
+    title: Contacta con nosotros
+    text_1: Uno de nuestros grandes pilares como empresa es el trabajo que hacemos para que puedas tener tu buscador funcionando con todas las garantías. Para esto, estamos contigo en todo el proceso de configruación, puesta a producción y seguimiento del servicio.
+    text_2: Para cualquier duda que tengas, para contarnos qué echas en falta en tu buscador actual o simplemente para que te asesoremos, solo tienes que mandarnos un correo.
+
+  integrations:
+    title: Integraciones
+    subtitle: En tan solo 3 minutos, podrás tener Apisearch funcionando en tu tienda online gracias a nuestras integraciones.
+
+index:
+  header:
+    title: Búsqueda en tiempo real para impulsar tus ventas
+    subtitle: Vende hasta un 30% más y descubre nuevas oportunidades de venta
+
+  start_now:
+    create_account:
+      title: Crea tu cuenta
+      subtitle: Empezar en Apisearch nunca fue tan fácil y tan rápido. En tan solo 5 minutos tendrás tu cuenta creada.
+      no_credit_card: No se requiere tarjeta de crédito
+
+    select_platform:
+      title: Selecciona tu plataforma
+      subtitle: Utiliza alguna de nuestros plugins disponibles para una integración completa.
+    grow_your_bussines:
+      title: Haz crecer tu negocio
+      subtitle: Descubre las necesidades de tus usuarios para encontrar oportunidades de crecimiento.
+
+  testimonials:
+    title: Esto opinan nuestros clientes
+    testimonials:
+      testimonial_1:
+        body: Un servicio supercompetente!<br>Apisearch nos ha sorprendido para bien, teniendo las mismas funcionalidades que otra herramienta del mismo sector y a la mitad de precio.<br>Muy atentos con las necesidades y en constante mejora.<br>Un año ya con ellos y encantados.<br>Muy recomendable.
+        author: Carlos
+        position: Marketing en Pampling
+      testimonial_2:
+        body: A día de hoy, es el buscador que mejor nos ha funcionado en nuestra tienda online Hola Princesa.<br>Además, el servicio al cliente es de 10, te ayudan a resolver todas tus incidencias y escuchan tus propuestas para ponértelas en marcha lo más rápido posible.
+        author: Ulises
+        position: CEO en Holaprincesa
+      testimonial_3:
+        body: Optimización, Rapidez y Eficiencia. <br>Tanto como usuaria como profesional del sector, Apisearch es una herramienta óptima y rápida en el mercado de buscadores.<br>La personalización o IA que ofrece en las búsquedas hace que la experiencia de compra en un e-commerce mejore sustancialmente.<br>Todo esto, y con un equipo detrás tan implicado, humano y eficiente es difícil no recomendarlo!
+        author: Manuel Perez
+        position: CEO en Buscorepuestos
+
+  qa:
+    q1:
+      q: ¿Por qué Apisearch?
+      a: Somos una empresa dedicada exclusivamente a un elemento tan importante como el buscador. Centramos nuestros esfuerzos en el desarrollo del producto, en una atención al cliente personalizada y en un crecimiento orgánico. Esto nos permite tener buenos precios y la mejor de las calidades.
+    q2:
+      q: ¿Puedo añadir filtros con Apisearch?
+      a: Sí. Podrás configurar tantos filtros como desees en nuestro panel de administración, siempre que tengamos los valores en el feed. Si tienes dudas puedes contactar con nosotros y te ayudaremos a revisar el feed.
+    q3:
+      q: ¿Puedo saber qué buscan mis clientes?
+      a: Sí. En nuestro panel de administración encontrarás todos los datos relacionados con las búsquedas que hacen tus clientes, así como aquellas búsquedas que no ofrecen resultados y pueden convertirse en oportunidades.
+    q4:
+      q: ¿Cómo y cuándo se cobra el servicio?
+      a: En Apisearch cobramos a mes pasado. Cada inicio de mes, recopilamos todos los datos de uso de nuestra plataforma y aplicamos el precio por petición o el precio acordado. Automáticamente mandaremos la factura al email configurado en la cuenta y procederemos al pago.
+    q5:
+      q: ¿En algún momento cortáis servicio?
+      a: Nunca cortamos servicio. Tenemos definidas unas métricas internas para que, antes de tomar cualquier decisión de esta magnitud, tomemos la iniciativa de ponernos en contacto con el cliente.
+    q6:
+      q: ¿Cómo puedo pagar?
+      a: Nos integramos tanto con tarjetas de débito como con SEPA. Dentro de nuestra aplicación tendrá un apartado donde, de forma completamente segura, podrás introducir tus datos de pago. En un futuro esperamos añadir otras formas de pago.
+    q7:
+      q: ¿Podemos tener un diseño a medida?
+      a: Sí. Por defecto nosotros publicamos una selección de diseños predefinidos con el que podrás cambiar colores, fuente y disposición. Si se requiere una integración más precisa y customizada, no dudes en ponerse en contacto con nosotros y te haremos presupuesto.
+    q8:
+      q: ¿Ofrecéis planes anuales?
+      a: Sí. Nuestra plataforma nos permite hacer cualquier tipo de plan a medida para tu empresa, desde planes anuales hasta mensuales fijos. Contacta con nosotros para poder analizar mejor tus necesidades y poder ofrecerte las mejores condiciones.
+    q9:
+      q: ¿En qué idioma está el buscador?
+      a: Tenemos el buscador en más de diez idiomas. Aprovechamos las necesidades de nuestros clientes para añadir más, por lo que si necesitas uno en especial, no dudes en preguntarnos y en cuestión de horas tendremos el buscador traducido sin problemas.
+    q10:
+      q: ¿Puedo utilizar Apisearch en un multisite?
+      a: Una de las grandes ventajas de Apisearch como producto es la capacidad de integrarse con grandes e-commerce que están vendiendo en docenas de países y de idiomas con un solo índice y feed de datos. Ofrecemos integraciones a medida para estos proyectos. Contacta con nosotros para más información.
+    q11:
+      q: ¿Puedo ver algún ejemplo de implementación?
+      a: Por supuesto. Te invitamos a que pruebes el buscador de alguno de nuestros clientes, como por ejemplo <a href="https://carethy.es" class="as-secondary-color" target="_blank">Carethy</a>, <a href="https://miscota.es" class="as-secondary-color" target="_blank">Miscota</a> o <a href="https://siroko.com" class="as-secondary-color" target="_blank">Siroko</a>.
+
+prestashop:
+  header:
+    title: El mejor buscador inteligente para Prestashop
+    subtitle: Vende hasta un 30% más y descubre nuevas oportunidades de venta con nuestro módulo avanzado para Prestashop
+  qa:
+    q1:
+      q: ¿Es compatible con mi versión de Prestashop?
+      a: Nuestro plugin de Prestashop es compatible con las versiones 1.7 y 8. Si sigues utilizando la versión 1.6 contacta con nosotros y te ayudaremos.
+    q2:
+      q: ¿Podré añadir filtros a mi buscador?
+      a: Si. Nuestro plugin de Prestashop nos mandará todos los valores de tus productos, y desde nuestro panel de administración podrás crear los filtros que necesites. Y sin saber programar.
+    q3:
+      q: ¿Podrán mis usuarios buscar por sinónimos?
+      a: Si. En nuestro panel de administración podrás configurar los sinónimos de una forma muy sencilla. Podrás descargar un listado, completarlo con nuevos sinónimos, y volver a subirlo de una forma rápida y cómoda.
+    q4:
+      q: ¿Podré saber qué buscan mis usuarios?
+      a: Si. En nuestro panel de administración podrás ver el rendimiento del buscador, incluyendo qué buscan, nuevas oportunidades de venta y hasta el porcentage de conversión.
+    q5:
+      q: ¿Podré probar el buscador antes de pagar?
+      a: Por supuesto. Nuestro mayor interés que el buscador pueda ayudarte a vender más. Pruébalo durante 30 días, y decide si continuar trás ver los resultados en tu tienda online.
+    q6:
+      q: ¿Tendré ayuda para configurarlo?
+      a: Si. En Apisearch estamos desarrollando toda una base de conocimiento integrada con IA para que no estés solo en ningún caso. Y si finalmente no puedes solucionar tus dudas, siempre tendrás una persona detrás dando soporte.
+
+  start_now:
+    create_account:
+      title: Crea tu cuenta
+      subtitle: Empezar en Apisearch nunca fue tan fácil y tan rápido. En tan solo 5 minutos tendrás tu cuenta creada.
+      no_credit_card: No se requiere tarjeta de crédito
+    install_plugin:
+      title: Instala el plugin de Prestashop
+      subtitle: Descarga y instala el plugin de Apisearch para Prestashop en menos de 1 minuto, sin conocimientos de programación.
+      download_last_version: Descargar última versión
+    active_search_engine:
+      title: Activa el buscador
+      subtitle: Una vez tengas el buscador a tu gusto, activa el buscador desde el plugin, y disfruta viendo tu negocio crecer
+
+shopify:
+  title: El mejor buscador inteligente para Shopify
+  subtitle: Vende hasta un 30% más y descubre nuevas oportunidades de venta con nuestra integración con Shopify
+  qa:
+    q1:
+      q: ¿Necesito instalar algún plugin para Shopify?
+      a: Ahora mismo no necesitas instalar nada. Utilizamos la API pública de Shopify para descargar tu catálogo. Estamos desarrollando el nuevo plugin para configuraciones más complejas
+    q2:
+      q: ¿Podré añadir filtros a mi buscador?
+      a: Si. Nuestra integración con tu tienda de Shopify nos mandará todos los valores de tus productos, y desde nuestro panel de administración podrás crear los filtros que necesites. Y sin saber programar.
+    q3:
+      q: ¿Podrán mis usuarios buscar por sinónimos?
+      a: Si. En nuestro panel de administración podrás configurar los sinónimos de una forma muy sencilla. Podrás descargar un listado, completarlo con nuevos sinónimos, y volver a subirlo de una forma rápida y cómoda.
+    q4:
+      q: ¿Podré saber qué buscan mis usuarios?
+      a: Si. En nuestro panel de administración podrás ver el rendimiento del buscador, incluyendo qué buscan, nuevas oportunidades de venta y hasta el porcentage de conversión.
+    q5:
+      q: ¿Podré probar el buscador antes de pagar?
+      a: Por supuesto. Nuestro mayor interés que el buscador pueda ayudarte a vender más. Pruébalo durante 30 días, y decide si continuar trás ver los resultados en tu tienda online.
+    q6:
+      q: ¿Tendré ayuda para configurarlo?
+      a: Si. En Apisearch estamos desarrollando toda una base de conocimiento integrada con IA para que no estés solo en ningún caso. Y si finalmente no puedes solucionar tus dudas, siempre tendrás una persona detrás dando soporte.
+
+  start_now:
+    create_account:
+      title: Crea tu cuenta
+      subtitle: Empezar en Apisearch nunca fue tan fácil y tan rápido. En tan solo 5 minutos tendrás tu cuenta creada.
+      no_credit_card: No se requiere tarjeta de crédito
+    install_plugin:
+      title: ¡No hace falta instalar plugin!
+      subtitle: Somos capaces de descargar tu catálogo sin que tengas que hacer nada más que decirnos cual es tu dominio. Así de simple.
+    active_search_engine:
+      title: Activa el buscador
+      subtitle: Una vez tengas el buscador a tu gusto, activa el buscador desde el plugin, y disfruta viendo tu negocio crecer
+
+woocommerce:
+  header:
+    title: El mejor buscador inteligente para Prestashop
+    subtitle: Vende hasta un 30% más y descubre nuevas oportunidades de venta con nuestro módulo avanzado para Prestashop
+  qa:
+    q1:
+      q: ¿Es compatible con mi versión de Woocommerce?
+      a: Nuestro plugin es compatible con las versiones más nuevas de Woocommerce. A medida que salgan versiones nuevas, iremos adaptandolo
+    q2:
+      q: ¿Podré añadir filtros a mi buscador?
+      a: Si. Nuestro plugin de Woocommerce nos mandará todos los valores de tus productos, y desde nuestro panel de administración podrás crear los filtros que necesites. Y sin saber programar.
+    q3:
+      q: ¿Podrán mis usuarios buscar por sinónimos?
+      a: Si. En nuestro panel de administración podrás configurar los sinónimos de una forma muy sencilla. Podrás descargar un listado, completarlo con nuevos sinónimos, y volver a subirlo de una forma rápida y cómoda.
+    q4:
+      q: ¿Podré saber qué buscan mis usuarios?
+      a: Si. En nuestro panel de administración podrás ver el rendimiento del buscador, incluyendo qué buscan, nuevas oportunidades de venta y hasta el porcentage de conversión.
+    q5:
+      q: ¿Podré probar el buscador antes de pagar?
+      a: Por supuesto. Nuestro mayor interés que el buscador pueda ayudarte a vender más. Pruébalo durante 30 días, y decide si continuar trás ver los resultados en tu tienda online.
+    q6:
+      q: ¿Tendré ayuda para configurarlo?
+      a: Si. En Apisearch estamos desarrollando toda una base de conocimiento integrada con IA para que no estés solo en ningún caso. Y si finalmente no puedes solucionar tus dudas, siempre tendrás una persona detrás dando soporte.
+
+  start_now:
+    create_account:
+      title: Crea tu cuenta
+      subtitle: Empezar en Apisearch nunca fue tan fácil y tan rápido. En tan solo 5 minutos tendrás tu cuenta creada.
+      no_credit_card: No se requiere tarjeta de crédito
+    install_plugin:
+      title: ¡No hace falta instalar plugin!
+      subtitle: Somos capaces de descargar tu catálogo sin que tengas que hacer nada más que decirnos cual es tu dominio. Así de simple.
+      download_last_version: Descargar última versión
+    active_search_engine:
+      title: Activa el buscador
+      subtitle: Una vez tengas el buscador a tu gusto, activa el buscador desde el plugin, y disfruta viendo tu negocio crecer
+
+google_shopping:
+  header:
+    title: Integración con Google Merchant
+    subtitle: Vende hasta un 30% más y descubre nuevas oportunidades de venta con nuestra integración con tus feeds de Google Merchant
+  qa:
+    q1:
+      q: ¿Necesito instalar algún plugin para la integración?
+      a: No. Solo necesitamos tu feed de google merchant para integrarnos. Nuestra plataforma es capaz de reconocer todos tus productos a partir de un feed.
+    q2:
+      q: ¿Podré añadir filtros a mi buscador?
+      a: Si. Nuestra integración con el feed que nos especifiques nos mandará todos los valores de tus productos, y desde nuestro panel de administración podrás crear los filtros que necesites. Y sin saber programar.
+    q3:
+      q: ¿Podrán mis usuarios buscar por sinónimos?
+      a: Si. En nuestro panel de administración podrás configurar los sinónimos de una forma muy sencilla. Podrás descargar un listado, completarlo con nuevos sinónimos, y volver a subirlo de una forma rápida y cómoda.
+    q4:
+      q: ¿Podré saber qué buscan mis usuarios?
+      a: Si. En nuestro panel de administración podrás ver el rendimiento del buscador, incluyendo qué buscan, nuevas oportunidades de venta y hasta el porcentage de conversión.
+    q5:
+      q: ¿Podré probar el buscador antes de pagar?
+      a: Por supuesto. Nuestro mayor interés que el buscador pueda ayudarte a vender más. Pruébalo durante 30 días, y decide si continuar trás ver los resultados en tu tienda online.
+    q6:
+      q: ¿Tendré ayuda para configurarlo?
+      a: Si. En Apisearch estamos desarrollando toda una base de conocimiento integrada con IA para que no estés solo en ningún caso. Y si finalmente no puedes solucionar tus dudas, siempre tendrás una persona detrás dando soporte.
+
+  start_now:
+    create_account:
+      title: Crea tu cuenta
+      subtitle: Empezar en Apisearch nunca fue tan fácil y tan rápido. En tan solo 5 minutos tendrás tu cuenta creada.
+      no_credit_card: No se requiere tarjeta de crédito
+    add_feed:
+      title: Indícanos la URL de tu feed
+      subtitle: En cuanto tengamos la url de tu feed, Apisearch empezará a guardar tus productos automáticamente. Y si tienes campos propios, solo tienes que especificarlos en nuestra plataforma.
+    active_search_engine:
+      title: Activa el buscador
+      subtitle: Una vez tengas el buscador a tu gusto, activa el buscador desde el plugin, y disfruta viendo tu negocio crecer
+
+terms_and_conditions:
+  title: Términos y condiciones
+  content: |
+    <p>
+    <strong>APISEARCH, S.L.</strong>, con CIF B16966053, y domicilio social en Calle Conxita Supervia 3-
+    5, 2-1, 08028, Barcelona, y correo electrónico: {{ email("info@apisearch.io")|raw }}, responsable del sitio
+    web, en adelante RESPONSABLE, pone a disposición de los usuarios el presente
+    documento, para dar cumplimiento a las obligaciones dispuestas en la Ley 34/2002, de
+    11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico
+    (LSSICE), así como informar a todos los usuarios del sitio web respecto a cuáles son
+    las condiciones de uso.
+    </p>
+
+    <p>
+    APISEARCH se reserva el derecho de modificar cualquier tipo de información que
+    pudiera aparecer en el sitio web, sin que exista obligación de preavisar o poner en
+    conocimiento de los usuarios dichas obligaciones, entendiéndose como suficiente con
+    la publicación en el sitio web de APISEARCH, https://apisearch.io (en adelante, el sitio
+    web).
+    </p>
+
+    <h3>1. DATOS IDENTIFICATIVOS</h3>
+    <p>
+    <ul>
+      <li>Nombre de dominio: https://apisearch.io</li>
+      <li>Nombre comercial: APISEARCH</li>
+      <li>Titular del web: APISEARCH, S.L</li>
+      <li>Datos Inscripción Registro Mercantil de Barcelona: Tomo 48006, Hoja B569209, Folio 5, inscripción 1.</li>
+      <li>CIF: B16966053</li>
+      <li>{{ email("info@apisearch.io")|raw }}</li>
+    <ul>
+    </p>
+
+
+    <h3>2. DERECHOS DE PROPIEDAD INTELECTUAL E INDUSTRIAL</h3>
+
+    <p>
+    El sitio web, incluyendo a título enunciativo, pero no limitativo su programación, edición,
+    compilación y demás elementos necesarios para su funcionamiento, los diseños,
+    logotipos, texto y/o gráficos, son propiedad del RESPONSABLE o, si es el caso, dispone
+    de licencia o autorización expresa por parte de los autores y/o licenciantes. Todos los
+    contenidos del sitio web se encuentran debidamente protegidos de acuerdo con la
+    normativa de propiedad intelectual e industrial, así como inscritos en los registros
+    públicos correspondientes. Independientemente de la finalidad para la que fueran
+    destinados, la reproducción total o parcial, uso, explotación, distribución y
+    comercialización, requiere en todo caso de la autorización escrita previa por parte del
+    RESPONSABLE. Cualquier uso no autorizado previamente se considera un
+    incumplimiento grave de los derechos de propiedad intelectual o industrial titularidad del
+    RESPONSABLE.
+    </p>
+
+    <p>
+    Los diseños, logotipos, texto y/o gráficos ajenos al RESPONSABLE y que pudieran
+    aparecer en el sitio web, pertenecen a sus respectivos propietarios, siendo ellos mismos
+    responsables de cualquier posible controversia que pudiera suscitarse respecto a los
+    mismos.
+    El RESPONSABLE reconoce a favor de sus titulares los correspondientes derechos de
+    propiedad intelectual e industrial, no implicando su sola mención o aparición en el sitio
+    web la existencia de derechos o responsabilidad alguna sobre los mismos, como
+    tampoco respaldo, patrocinio o recomendación por parte del mismo.
+    Para realizar cualquier tipo de observación respecto a posibles incumplimientos de los
+    derechos de propiedad intelectual o industrial, así como sobre cualquiera de los
+    contenidos del sitio web, puede hacerlo a través del correo electrónico
+    {{ email("info@apisearch.io")|raw }}
+    </p>
+
+    <h3>3. EXENCIÓN DE RESPONSABILIDADES</h3>
+
+    <p>
+    El RESPONSABLE se exime de cualquier tipo de responsabilidad derivada de la
+    información publicada en su sitio web siempre que esta información haya sido
+    manipulada o introducida por un tercero ajeno al mismo.
+    Política de enlaces
+    Desde el sitio web, es posible que se redirija a contenidos de terceros sitios web. Dado
+    que el RESPONSABLE no puede controlar siempre los contenidos introducidos por los
+    terceros en sus respectivos sitios web, no asume ningún tipo de responsabilidad
+    respecto a dichos contenidos. En todo caso, procederá a la retirada inmediata de
+    cualquier contenido que pudiera contravenir la legislación nacional o internacional, la
+    moral o el orden público, procediendo a la retirada inmediata de la redirección a dicho
+    sitio web, poniendo en conocimiento de las autoridades competentes el contenido en
+    cuestión.
+    </p>
+
+    <p>
+    El RESPONSABLE no se hace responsable de la información y contenidos
+    almacenados, a título enunciativo, pero no limitativo, en foros, chats, generadores de
+    blogs, comentarios, redes sociales o cualquier otro medio que permita a terceros
+    publicar contenidos de forma independiente en la página web del RESPONSABLE. Sin
+    embargo, y en cumplimiento de lo dispuesto en los artículos 11 y 16 de la LSSICE, se
+    pone a disposición de todos los usuarios, autoridades y fuerzas de seguridad,
+    colaborando de forma activa en la retirada o, en su caso, bloqueo de todos aquellos
+    contenidos que puedan afectar o contravenir la legislación nacional o internacional, los
+    derechos de terceros y el orden público. En caso de que el usuario considere que existe
+    en el sitio web algún contenido que pudiera ser susceptible de esta clasificación, se
+    ruega lo notifique de forma inmediata al administrador del sitio web. Este sitio web ha
+    sido revisado y probado para que funcione correctamente. En principio, puede
+    garantizarse el correcto funcionamiento los 365 días del año, 24 horas al día. Sin
+    embargo, el RESPONSABLE no descarta la posibilidad de que existan ciertos errores
+    de programación, o que acontezcan causas de fuerza mayor, catástrofes naturales,
+    huelgas o circunstancias semejantes que hagan imposible el acceso a la página web.
+    Direcciones IP
+    </p>
+    <p>
+    Los servidores del sitio web podrán detectar de manera automática la dirección IP y el
+    nombre de dominio utilizados por el usuario. Una dirección IP es un número asignado
+    automáticamente a un ordenador cuando éste se conecta a Internet. Toda esta
+    información es registrada en un fichero de actividad del servidor debidamente inscrito
+    que permite el posterior procesamiento de los datos con el fin de obtener mediciones
+    únicamente estadísticas que permitan conocer el número de impresiones de páginas, el
+    número de visitas realizadas a los servidores web, el orden de visitas, el punto de
+    acceso, etc.
+    </p>
+
+    <h3>4. LEY APLICABLE Y JURISDICCIÓN</h3>
+
+    <p>
+    Para la resolución de todas las controversias o cuestiones relacionadas con el presente
+    sitio web o de las actividades en él desarrolladas, será de aplicación la legislación
+    española, a la que se someten expresamente las partes, siendo competentes para la
+    resolución de todos los conflictos derivados o relacionados con su uso los Juzgados y
+    Tribunales de Barcelona.
+    </p>
+
+
+privacy_policy:
+  title: Política de privacidad
+  content: |
+    <h3>1. INFORMACIÓN AL USUARIO</h3>
+    <p>
+    APISEARCH, S.L., en adelante RESPONSABLE, es el Responsable del tratamiento de
+    los datos personales del Usuario y le informa que estos datos serán tratados de
+    conformidad con lo dispuesto en el Reglamento (UE) 2016/679 de 27 de abril de 2016
+    (GDPR) relativo a la protección de las personas físicas en lo que respecta al tratamiento
+    de datos personales y a la libre circulación de estos datos, por lo que se le facilita
+    la siguiente información del tratamiento:
+    </p>
+    <p>
+    <strong>Fin del tratamiento</strong>: mantener una relación comercial con el Usuario. Las operaciones
+    previstas para realizar el tratamiento son:
+    <ul class="list">
+      <li>Cumplimiento de la relación contractual de prestación de servicios de buscador y relativos al mismo.</li>
+      <li>Remisión de comunicaciones comerciales publicitarias por email, fax, Whatsapp,
+      Telegram SMS, MMS, redes sociales o cualquier otro medio electrónico o físico,
+      presente o futuro, que posibilite realizar comunicaciones comerciales. Estas
+      comunicaciones serán realizadas por el RESPONSABLE y relacionadas sobre
+      sus productos y servicios, o de sus colaboradores o proveedores con los que
+      éste haya alcanzado algún acuerdo de promoción. En este caso, los terceros
+      nunca tendrán acceso a los datos personales.</li>
+      <li>Realizar estudios estadísticos.</li>
+      <li>Tramitar encargos, solicitudes o cualquier tipo de petición que sea realizada por
+      el usuario a través de cualquiera de las formas de contacto que se ponen a su
+      disposición.</li>
+      <li>Remitir el boletín de noticias de la página web, en su caso.</li>
+    </ul>
+
+    <p><strong>Base jurídica del tratamiento</strong>: consentimiento del interesado.</p>
+    <p><strong>Criterios de conservación de los datos</strong>: se conservarán mientras exista un interés
+    mutuo para mantener el fin del tratamiento y cuando ya no sea necesario para tal fin, se
+    suprimirán con medidas de seguridad adecuadas para garantizar la seudonimización de
+    los datos o la destrucción total de los mismos.</p>
+    <p><strong>Comunicación de los datos</strong>: No se comunicarán los datos a terceros, salvo obligación
+    legal.</p>
+    <p>
+    <strong>Derechos que asisten al Usuarios</strong>:
+    <ul class="list">
+      <li>Derecho a retirar el consentimiento en cualquier momento.</li>
+      <li>Derecho de acceso, rectificación, portabilidad y supresión de sus datos y a la
+      limitación u oposición al su tratamiento.</li>
+      <li>Derecho a presentar una reclamación ante la autoridad de control
+      (www.aepd.es) si considera que el tratamiento no se ajusta a la normativa
+      vigente.</li>
+    </ul>
+    </p>
+    <p><strong>Datos de contacto para ejercer sus derechos</strong>:<p>
+    <p>
+    Dirección postal: Calle Conxita Supervia 3-5, 2-1, 08028, Barcelona, y correo
+    electrónico: {{ email("info@apisearch.io")|raw }}
+    </p>
+
+    <h3>2. CARÁCTER OBLIGATORIO O FACULTATIVO DE LA INFORMACIÓN FACILITADA POR EL USUARIO</h3>
+    <p>
+    Los Usuarios, mediante la marcación de las casillas correspondientes y entrada de
+    datos en los campos, marcados con un asterisco (*) en el formulario de contacto o
+    presentados en formularios de descarga, aceptan expresamente y de forma libre e
+    inequívoca, que sus datos son necesarios para atender su petición, por parte del
+    prestador, siendo voluntaria la inclusión de datos en los campos restantes. El Usuario
+    garantiza que los datos personales facilitados al RESPONSABLE son veraces y se hace
+    responsable de comunicar cualquier modificación de los mismos.
+    </p>
+    <p>
+    El RESPONSABLE informa y garantiza expresamente a los usuarios que sus datos
+    personales no serán cedidos en ningún caso a terceros, y que siempre que realizara
+    algún tipo de cesión de datos personales, se pedirá previamente el consentimiento
+    expreso, informado e inequívoco por parte los Usuarios. Todos los datos solicitados a
+    través del sitio web son obligatorios, ya que son necesarios para la prestación de un
+    servicio óptimo al Usuario. En caso de que no sean facilitados todos los datos, no se
+    garantiza que la información y servicios facilitados sean completamente ajustados a sus
+    necesidades.
+    </p>
+    <h3>3. MEDIDAS DE SEGURIDAD</h3>
+    <p>
+    Que de conformidad con lo dispuesto en las normativas vigentes en protección de datos
+    personales, el RESPONSABLE está cumpliendo con todas las disposiciones de las
+    normativas RGPD (Reglamento General de Protección de Datos) para el tratamiento de
+    los datos personales de su responsabilidad, y manifiestamente con los principios
+    descritos en el artículo 5 del RGPD, por los cuales son tratados de manera lícita, leal y
+    transparente en relación con el interesado y adecuados, pertinentes y limitados a lo
+    necesario en relación con los fines para los que son tratados.
+    </p>
+    <p>
+    El RESPONSABLE garantiza que ha implementado políticas técnicas y organizativas
+    apropiadas para aplicar las medidas de seguridad que establecen el RGPD con el fin de
+    proteger los derechos y libertades de los Usuarios y les ha comunicado la información
+    adecuada para que puedan ejercerlos.
+    </p>
