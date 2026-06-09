@@ -9,13 +9,21 @@ use Twig\Extra\Intl\IntlExtension;
 use Twig\Loader\FilesystemLoader;
 use Symfony\Component\Finder\Finder;
 
-require "../vendor/autoload.php";
+require __DIR__ . "/../vendor/autoload.php";
+
+$config = Yaml::parse(file_get_contents(__DIR__ . '/../config.yml'));
+$languageTranslations = Yaml::parse(file_get_contents(__DIR__ . '/../languages/es.yml'));
+$assets = trim($config['assets'] ?? 'assets', '/');
 
 $converter = new CommonMarkConverter();
 $twig = new Environment(new FilesystemLoader([
-    __DIR__ . '/templates'
+    __DIR__ . '/templates',
+    __DIR__ . '/../templates',
 ]));
 $twig->addExtension(new IntlExtension());
+$twig->addGlobal('assets_path', 'https://apisearch.io/' . $assets);
+$twig->addGlobal('hash', (new \DateTime())->format('U'));
+$twig->addGlobal('t', $languageTranslations['blocks'] ?? []);
 
 echo 'Generating blog...' . PHP_EOL . PHP_EOL;
 

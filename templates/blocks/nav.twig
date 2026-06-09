@@ -1,6 +1,6 @@
 <section id="main-nav-section" class="bg-cover 2xl:bg-contain bg-top bg-no-repeat">
     <nav id="main-nav" class="container px-4 mx-auto flex justify-between items-center py-6" style="column-gap: 15px;"><a class="text-3xl font-semibold leading-none" href="{{ root_path }}">
-            <img class="logo-white" src="{{ assets_path }}/images/logo-apisearch-new.webp?hash={{ hash }}" alt="Logo de Apisearch" width="200">
+            {% include "blocks/logo.twig" %}
         </a>
         <ul class="hidden lg:flex lg:items-center lg:w-auto lg:space-x-12">
             <li><a class="text-sm text-white" href="#features">{{ t.nav.features }}</a></li>

@@ -109,7 +109,17 @@ urls:
       keywords: Apisearch, prueba buscador, empieza
 
 blocks:
+  brand:
+    tagline_prefix: An
+    tagline_highlight: Empathy Holdings
+    tagline_suffix: brand
+
   footer:
+    empathy_holdings_products: Otros productos de Empathy Holdings
+    visible_privacy: Visible Privacy
+    motive_search_plugin: Motive Search Plug-in
+    empathy_platform: Empathy Platform
+    empathy_ai: Empathy AI
     integrations: Integraciones
     resources: Recursos
     company: Empresa
