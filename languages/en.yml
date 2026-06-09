@@ -107,7 +107,17 @@ urls:
       keywords: Apisearch, search engine trial, get started
 
 blocks:
+  brand:
+    tagline_prefix: An
+    tagline_highlight: Empathy Holdings
+    tagline_suffix: brand
+
   footer:
+    empathy_holdings_products: Other Empathy Holdings products
+    visible_privacy: Visible Privacy
+    motive_search_plugin: Motive Search Plug-in
+    empathy_platform: Empathy Platform
+    empathy_ai: Empathy AI
     integrations: Integrations
     resources: Resources
     company: Company

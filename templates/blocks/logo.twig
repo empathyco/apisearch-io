@@ -1,0 +1,9 @@
+<span class="logo-block logo-block--{{ align|default('left') }}">
+    <img
+        class="logo-mark"
+        src="{{ assets_path }}/logos/Apisearch-EH_{{ variant|default('white') }}-mark.svg?hash={{ hash }}"
+        alt="Apisearch"
+        width="{{ width|default(200) }}"
+    >
+    <span class="logo-tagline logo-tagline--{{ variant|default('white') }}">{{ t.brand.tagline_prefix }} <span class="logo-tagline__bold">{{ t.brand.tagline_highlight }}</span> {{ t.brand.tagline_suffix }}</span>
+</span>
